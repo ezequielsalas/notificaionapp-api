@@ -1,4 +1,4 @@
-# Project Name
+# Notifcation APP API
 ## Description
 The notification_app is a Python application that allows users to send and receive notifications.
 

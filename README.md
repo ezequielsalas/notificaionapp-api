@@ -4,7 +4,7 @@ The notification_app is a Python application that allows users to send and recei
 
 ## Installation
 To install the notification_app, follow these steps:
-1. Clone the repository: `git clone https://github.com/ezequielsalas/notification_app.git`
+1. Clone the repository: `git clone https://github.com/ezequielsalas/notificaionapp-api`
 2. Navigate to the project directory: `cd notification_app`
 3. Install the dependencies: `pip install -r requirements.txt`
 4. Run migration `alembic upgrade head`
